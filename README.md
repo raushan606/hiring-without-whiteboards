@@ -54,8 +54,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Amino Payments](https://angel.co/company/amino-payments/jobs/) | Philadelphia, PA | Real-world technical design and problem discussion, pair programming on-site
 - [Analytical Flavor Systems](https://gastrograph.com) | Manhattan, New York | Code sample or take-home project, both with discussion.
 - [Angaza](https://www.angaza.com/careers/) | San Francisco, CA | Take-home assignment with guaranteed feedback, on-site interviews involving actual day-to-day work
-- [Animech](https://animech.com/join-us) | Uppsala, Sweden | Multiple interviews with technical staff with real problem discussions.
-- [Anyfin](https://career.anyfin.com) | Stockholm, Sweden | Takehome project & Onsite discussions and presentation.
 - [Aparkado](https://aparkado.de) | Cologne, Germany / Remote | Intro with Co-Founder, team fit with the team plus a small real-world problem to solve, followed by final round with CEO / Co-Founder.
 - [Apollo Agriculture](https://apolloagriculture.com) | Nairobi, Kenya/Remote | Takehome project or Worksample (or whiteboard)
 - [Applied](https://www.beapplied.com) | London, UK | Situational judgement tests focusing on real-world soft skills (online then in structured interview)
@@ -235,7 +233,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [Devfolio](https://devfolio.co) | Bangalore, India; Remote | Phone call, followed by a small take home problem. Finally a F2F or Zoom pair programming session
 - [DevsData](https://devsdata.com) | New York, NY; San Francisco, CA; Warsaw, Poland; Frankfurt, Germany; Remote | Video interview, 3-hours take-home assignment, technical video interview
 - [DG-i](https://www.dg-i.net) | Cologne, Germany | Take-home project and/or discussion on-site about past experiences
-- [DICE](http://www.dice.se) | Stockholm, Sweden | Take-home project and code review at the on-site
 - [Digitally Imported](http://www.di.fm/jobs) | Denver, Colorado & Remote | Video meetings on past experience and high level tech questions, take-home project
 - [Dixa](https://dixa.com/careers) | Copenhagen, Denmark | Initial phone call. Take-home programming task, then on-site discussion followed by online personality test
 - [Doctolib](https://about.doctolib.fr/jobs) | Paris, France; Berlin, Germany | Take-home project, on-site interview and work half a day with one of our feature team
@@ -288,7 +285,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [EWORX](https://eworx.gr/jobs) | Athens, Greece | Take-home project and discussion.
 - [Exoscale](https://exoscale.ch) | Bern, Switzerland | Take-home project. Discussion and presentation. Then entire team meet.
 - [Extend](https://www.extend.com/careers) | San Francisco, CA; Dallas, TX; Remote | Phone call, a take home project similar to making a PR at work, then a meet & greet with the team.
-- [Eyevinn Technology](https://www.eyevinntechnology.se) | Stockholm, Sweden | Remote or face 2 face interview followed by take-home project. Then a discussion on-site where we go through the technical aspects of the project.
 - [F(x)](https://fdex.com.br) | São Paulo, Brazil | Skype interview, Take-home project and onsite interview to evaluate the candidate
 - [Facebook (Front End Engineer)](https://www.facebook.com/careers/jobs) | Tel Aviv, Israel; London, UK; US: Menlo Park, CA; Seattle, WA; Washington, DC | Initial phone code interview, then on site interview (or remote when not possible) with code and design / architecture interviews. All questions are based on actual problems the company has solved in the past.
 - [Facile.it](https://jobs.facile.it) | Milan, Italy; Cagliari, Italy; Remote | Initial call/Skype interview with HR. Tech interview about OOP concepts, HTTP and REST API design questions with 2 engineers. Brief talk with VP of Engineering or CTO.
@@ -365,7 +361,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [GTM Sportswear](https://gtmsportswear.com/careers) | Manhattan, KS / Remote | Remote pairing session, then a take-home test.
 - [Hacktiv8](https://hacktiv8.com) | Jakarta, Indonesia | Phone call for quick project & personal introduction followed by Video call interview with project owner for discussion about the project and general question on how the project should be solved.
 - [Happy Team](https://happyteam.io) | Warsaw, Poland; Remote | General technical questions, takehome paid exercise with feedback/discussion during implementation
-- [Happypie](http://www.happypie.com) | Uppsala, Sweden | Takehome exercise with code review after, in-person interview
 - [Harvard Library Innovation Lab](https://lil.law.harvard.edu/collaborate/) | Cambridge, MA | Take home project that mirrors work we might do on a [Sketch](https://lil.law.harvard.edu/sketches/) and follow up discussion after.
 - [Hash](https://www.hash.com.br/index.html) | Sao Paulo, Brazil | Take-home project and/or discussion (on-site or remote)
 - [Hashnode](https://hashnode.com/careers) | Remote | Phone/video call interview for quick personal introduction -> a take-home coding exercise based on real world example -> take-home task discussion -> culture fit session.
@@ -417,8 +412,6 @@ Also check out [No Whiteboards](https://www.nowhiteboard.org) to search for jobs
 - [itdesign](https://itdesign.de/karriere/) | Tübingen, Germany | Short phone or personal interview. A day at our company to give you and us the opportunity to get to know each other.
 - [Ithaka](https://www.ithaka.travel) | Mumbai, India | Phone interview followed by a small development task. Finally a phone interview with CEO.
 - [iTrellis](http://itrellis.com) | Seattle, WA | Phone screen, then a take-home project, then pairing (remote or on-site) with 3 developers on the take-home project.
-- [iZettle](https://jobs.izettle.com/jobs) | Stockholm, Sweden | Remote pair programming exercise, propose an architecture for an application and discuss about it in an informal format.
-
 ## J - L
 
 - [Jamasoftware](http://www.jamasoftware.com) | Portland, OR | Initial phone screen with hiring manager. In person pairing on project similar to day-to-day work with a separate cultural interview
